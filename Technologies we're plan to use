@@ -1,0 +1,12 @@
+Technologies Using
+------------------
+
+Frontend: React.js (for dynamic UI)
+Backend: Node.js with Express.js (API handling)
+Authentication: Firebase Authentication (secure login)
+Database: MongoDB (for product and user data, if needed)
+Cloud Storage: Firebase Storage (for product images)
+Deployment: Firebase Hosting / Vercel for frontend, AWS / Heroku for backend
+
+
+Note: We may add/remove some technologies as per project need on flow.
