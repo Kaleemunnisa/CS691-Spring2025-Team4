@@ -40,7 +40,7 @@ By providing an easy-to-use e-commerce platform with **secure transactions and r
 
 ## Roles and Responsibilities  
 
-### **Aniket Kshirsagar (Team Lead)**  
+#### **Aniket Kshirsagar (Team Lead)**  
 - **Role:** Project Management, Frontend Development  
 - **Responsibilities:**  
   - Oversee project progress and delivery  
