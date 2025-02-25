@@ -38,7 +38,7 @@ By providing an easy-to-use e-commerce platform with **secure transactions and r
 
 ---
 
-## Team and Responsibilities  
+## Roles and Responsibilities  
 
 ### **Aniket Kshirsagar (Team Lead)**  
 - **Role:** Project Management, Frontend Development  
