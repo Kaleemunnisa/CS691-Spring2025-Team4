@@ -79,7 +79,7 @@ By providing an easy-to-use e-commerce platform with **secure transactions and r
       Frontend Developer, Project Management
     </td>
     <td>
-      <img src="https://https://github.com/user-attachments/assets/04bb90f2-69a0-4b3b-810e-85aec7299611?size=250" width="180" height="180" /><br>
+      <img src="https://github.com/user-attachments/assets/04bb90f2-69a0-4b3b-810e-85aec7299611?size=250" width="180" height="180" /><br>
       <b>PAVANKUMAR</b><br>
       Frontend Developer, UI Design
     </td>
