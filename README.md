@@ -2,18 +2,18 @@
 
 ## Problem Statement  
 
-This project aims to develop a **web-based e-commerce platform** tailored for the Pace University community. The platform will utilize **Node.js** for backend development, **MongoDB** as the database (if needed), and **Firebase Authentication** to ensure secure user login.  
+This project aims to develop a **web-based e-commerce platform** tailored for the **Pace University community**. The platform will provide **a secure and seamless marketplace** where students and faculty can buy, sell, and exchange graduation-related items.  
 
-### **Key Features:**  
-✔️ **Real-time product listings** for a seamless shopping experience  
-✔️ **Order management system** to track purchases and sales  
-✔️ **Secure user authentication** using Firebase  
-✔️ **Exclusive access** for Pace University students and faculty  
+### Tech Stack  
+- **Frontend:** React.js *(for a dynamic and responsive UI)*  
+- **Backend:** Node.js with Express.js *(for API handling and business logic)*  
+- **Authentication:** Firebase Authentication *(for secure user login and account management)*  
+- **Database:** MongoDB *(for storing product and user data, if needed)*  
+- **Cloud Storage:** Firebase Storage *(for managing and hosting product images)*  
+- **Deployment:** Firebase Hosting / Vercel *(for frontend)* and AWS / Heroku *(for backend)*  
 
-### **Expected Outcome:**  
-✔️ A **secure, user-friendly e-commerce platform** designed for Pace University  
-✔️ Enables students and faculty to **safely buy, sell, and exchange goods** within the campus community  
-  
+### Expected Outcome  
+A **secure, user-friendly, and real-time e-commerce platform** exclusively designed for **Pace University**, enabling safe and seamless **buying, selling, and exchanging of goods** within the campus community. 
 
 ---
 
@@ -38,9 +38,7 @@ By providing an easy-to-use e-commerce platform with **secure transactions and r
 
 ---
 
-## Project team Members  
-
-Meet the amazing team behind this project! 🎉  
+## Project Team Members  
 
 <table>
   <tr align="center">
