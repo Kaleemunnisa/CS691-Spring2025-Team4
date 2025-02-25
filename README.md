@@ -38,61 +38,29 @@ By providing an easy-to-use e-commerce platform with **secure transactions and r
 
 ---
 
-## 👥 Contributors  
+## Team and Responsibilities  
 
-Meet the amazing team behind this project! 🎉  
-
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://github.com/user-attachments/assets/a4299646-dd49-46c7-abda-1f337610b181?size=250" width="180" height="180" /><br>
-      <b>ANIKET (Team Lead)</b><br>
-      Frontend Developer, Project Management
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/bbf1bc1a-dbad-44bf-9d34-8fee214e16ac?size=250" width="180" height="180" /><br>
-      <b>PAVANKUMAR</b><br>
-      Frontend Developer, UI Design
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/230240a3-46d3-4145-adca-d7b4e97740aa?size=250" width="180" height="180" /><br>
-      <b>JEGAN</b><br>
-      Backend Developer, Data Fetching
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/31ad4a56-b76f-4155-b1e4-d41f0df730ce?size=250" width="180" height="180" /><br>
-      <b>MANIHAS</b><br>
-      Backend Developer, Data Designing
-    </td>
-  </tr>
-</table>  
-
----
-
-## 🏆 Team and Responsibilities  
-
-### 👨‍💼 **Team Lead**  
-- **Name:** Aniket Kshirsagar
+### **Aniket Kshirsagar (Team Lead)**  
 - **Role:** Project Management, Frontend Development  
 - **Responsibilities:**  
   - Oversee project progress and delivery  
   - Develop frontend and manage UI components  
 
-### 👨‍💻 **Team Members**  
+### **Team Members**  
 
-#### 🎨 **Pavankumar Sakhireddy**  
+#### **Pavankumar Sakhireddy**  
 - **Role:** Frontend Developer, UI Design  
 - **Responsibilities:**  
   - Design and implement user-friendly UI  
   - Collaborate on frontend features and responsiveness  
 
-#### 🚀 **Jegan Nadar**  
+#### **Jegan Nadar**  
 - **Role:** Backend Developer, Data Fetching  
 - **Responsibilities:**  
   - Develop backend APIs for data retrieval  
   - Optimize backend performance and security  
 
-#### 🔍 **Manihas reddy Singireddy**  
+#### **Manihas reddy Singireddy**  
 - **Role:** Backend Developer, Data Designing  
 - **Responsibilities:**  
   - Design and manage database architecture  
