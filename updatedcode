@@ -1,5 +1,0 @@
-We are currently developing on the staging branch, where all ongoing work and updates are committed. Once a sprint is completed, 
-the finalized code will be merged into the main branch.
-
-Throughout the development process, we will regularly push updates to the staging branch, while the main branch will only contain 
-stable and production-ready code.
