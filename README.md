@@ -76,22 +76,22 @@ By providing an easy-to-use e-commerce platform with **secure transactions and r
     <td>
       <img src="https://github.com/user-attachments/assets/a4299646-dd49-46c7-abda-1f337610b181?size=250" width="180" height="180" /><br>
       <b>ANIKET (Team Lead)</b><br>
-      Frontend Developer, Project Management
+      Frontend Developer Project Management
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/04bb90f2-69a0-4b3b-810e-85aec7299611?size=250" width="180" height="180" /><br>
       <b>PAVANKUMAR</b><br>
-      Frontend Developer, UI Design
+      Frontend Developer UI Design
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/230240a3-46d3-4145-adca-d7b4e97740aa?size=250" width="180" height="180" /><br>
       <b>JEGAN</b><br>
-      Backend Developer, Data Fetching
+      Backend Developer Data Fetching
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/31ad4a56-b76f-4155-b1e4-d41f0df730ce?size=250" width="180" height="180" /><br>
       <b>MANIHAS</b><br>
-      Backend Developer, Data Designing
+      Backend Developer Data Designing
     </td>
   </tr>
 </table>
